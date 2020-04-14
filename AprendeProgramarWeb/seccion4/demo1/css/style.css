@@ -1,0 +1,9 @@
+
+/*
+    h1 = identificador, en este caso es la etiqueta
+    color = atributo del identificador
+    #c00b0b = valor editable de la propiedad
+*/
+h1 {
+    color: #c00b0b;
+}

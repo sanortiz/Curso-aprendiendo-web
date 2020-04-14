@@ -1,0 +1,35 @@
+
+#rojo {
+    color: #c20707;
+    font-family: sans-serif;
+    font-size: 42px;
+}
+
+.rojo {
+    text-transform: uppercase;
+}
+
+a {
+    text-decoration: none;
+    color: #07c217;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+p {
+    line-height: 10px;
+}
+
+.contenedor {
+    width: 1100px;
+    background-color: #7fffd4;
+    float: left;
+}
+
+img {
+    float: right;
+    width: 200px;
+    background-color: #dc143c;
+    border-radius: 20px;
+    padding: 20px;
+}

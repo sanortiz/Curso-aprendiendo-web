@@ -19,7 +19,7 @@ a {
 p {
     /*line-height: 10px;*/
     text-align: left;
-    /*etter-spacing: 2px;*/
+    /*letter-spacing: 2px;*/
 }
 
 .contenedor {
@@ -32,5 +32,5 @@ img {
     width: 200px;
     background-color: crimson;
     border-radius: 20px;
-    border-radius: 3px solid black;
+    border: 3px solid black;
 }

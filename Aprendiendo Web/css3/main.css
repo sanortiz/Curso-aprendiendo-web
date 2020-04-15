@@ -1,6 +1,11 @@
 /** Grid  **/
 
+/* Se establezcan las configuraciones dentro del media cuando lo pantalla sea mayor a 768px */
 @media only screen and (min-width: 768px){
+    body {
+        background-color: #557694;
+    }
+
     .contenedor-grid{
         margin-bottom: 15px;
     }
@@ -10,6 +15,8 @@
         display: block;
         clear: both;
     }
+
+    /* Establecer las siguientes propiedades cuando un elemento tenga en su atributo clase la palabra columnas */
     [class*="columnas"]{
         padding: 0 10px;
         float: left;

@@ -1,0 +1,50 @@
+/* * Selectores */
+/* Etiqueta => p, h1 */
+
+/* Clases => .nombre-clase */
+
+/* id => #nombre-id */
+
+/* * Unidades */
+/* Absolutas
+  in, mm, px, pt, etc...
+*/
+
+/* Relativas
+  porcentaje (%), em, rem
+*/
+
+html {
+  font-size: 12px;
+}
+
+body {
+  font-family: Helvetica;
+  text-align: center;
+}
+
+
+.contenedor {
+  background-color: aliceblue;
+  width: 20%;
+}
+
+header {
+  background-color: blue;
+  color: white;
+}
+
+main {
+  background-color: lightblue;
+}
+
+#seccion {
+  background-color: lightgray;
+}
+
+article {
+  background-color: brown;
+}
+
+footer {
+}
